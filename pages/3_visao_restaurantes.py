@@ -88,7 +88,7 @@ df1 = clean_code(df)
 
 st.header('MarketPlace - Visão Restaurantes')
 
-image = Image.open('image_delivery.JPG')
+image = Image.open('image_delivery.jpg')
 st.sidebar.image(image, width=300, caption='Fast Delivery')
 
 st.sidebar.markdown('# Cury Company')
